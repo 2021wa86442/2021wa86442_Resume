@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siddhesh Shejole - CV</title>
+    <style>
+        body {
+            font-family: Calibri, Arial, sans-serif;
+            line-height: 1.0;
+            background-color: #f0f0f0;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            background: #fff;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .name {
+            font-size: 28px;
+            margin-bottom: 5px;
+            color: #333;
+        }
+        .email {
+            font-size: 16px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .photo {
+            display: block;
+            margin: 0 auto;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 4px solid #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section-title {
+            font-size: 22px;
+            color: #333;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        .subsection {
+            margin-bottom: 10px;
+        }
+        .subsection-title {
+            font-size: 18px;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        .education-item {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="C:\Users\SSVEN25081\Desktop\Web Technologies/image.jpg" alt="Siddhesh Shejole" class="photo">
+        <div class="name">Siddhesh Shejole</div>
+    </div>
+    <div class="section">
+        <div class="section-title">Contact Information</div>
+        <p>Phone: 9370204921</p>
+        <p>Email: <a href="mailto:2021wa86442@wilp.bits-pilani.ac.in">2021wa86442@wilp.bits-pilani.ac.in</a></p>
+        <p>Address: Mumbai</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/siddhesh-shejole-3954b819b/">Siddhesh Shejole</a></p>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Career Objective</div>
+        <p>Experienced IT professional with 3 years in Patch Management, specializing in SCCM. Seeking to lead technical initiatives, collaborate across teams, and drive IT innovation.</p>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Education</div>
+        <div class="education-item">
+            <h3>Bachelor of Computer Science  <span style="float: right;">71.4%</span></h3>
+            <p>H.P.T. R.Y.K. College, Nashik</p>
+            <p>June 2018 - April 2021</p>
+        </div>
+        <div class="education-item">
+            <h3>Higher Secondary Education (12th)  <span style="float: right;">64.6%</span></h3>
+            <p>C.M.C.S. College, Nashik</p>
+            <p>June 2017 - April 2018</p>
+        </div>
+        <div class="education-item">
+            <h3>Secondary School Certificate (10th)  <span style="float: right;">87%</span></h3>
+            <p>C.D.O. MERI Highschool, Nashik</p>
+            <p>June 2015 - April 2016</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Experience</div>
+        <div class="subsection">
+            <div class="subsection-title"><strong>Wipro Limited, Mumbai </strong> <span style="float: right;"><strong>December 2021 - Present</strong></span></div>
+  
+            <p><strong>Scholar Trainee</strong></p>
+            <ul>
+                <li>* Microsoft patch deployment creation, troubleshooting, and compliance management for production servers and workstations.</li>
+                <li>* Application and Software Package creation and deployment using SCCM 2207 for workstations.</li>
+                <li>* Installing application through PowerShell scripts.</li>
+                <li>* Monitoring/creating Distribution points and boundaries and boundaries groups.</li>
+                <li>* Creating change request for workstation for monthly patching and vulnerability.</li>
+                <li>* Provide support to troubleshoot deployment issues, perform WMI repair and client health issues.</li>
+                <li>* Good Experience in Application Management in SCCM and troubleshooting through logs.</li>
+                <li>* Scheduling the downtime for server patching by coordinating client.</li>
+                <li>*  Knowledge in OSD deployment process.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Skills</div>
+        <ul>
+            <li>* SCCM</li>
+            <li>* Basic Powershell</li>
+            <li>* Knowledge in SQL</li>
+            <li>* Excel</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Languages</div>
+        <p>English, Marathi, Hindi</p>
+    </div>
+</body>
+</html>
